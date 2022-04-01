@@ -1,0 +1,6 @@
+projectKey=maven-basic-perf
+serverUrl=https://ee89-jting-us.ngrok.io
+serverVersion=8.9.6.50800
+dashboardUrl=https://ee89-jting-us.ngrok.io/dashboard?id=maven-basic-perf
+ceTaskId=AX7BsyENbTudP0A49aiZ
+ceTaskUrl=https://ee89-jting-us.ngrok.io/api/ce/task?id=AX7BsyENbTudP0A49aiZ

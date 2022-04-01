@@ -1,0 +1,9 @@
+#surefire_0
+#Thu Feb 03 16:27:05 CST 2022
+basedir=/Users/jting/Projects/maven-basic-89
+sonar.projectKey=maven-basic-perf
+user.dir=/Users/jting/Projects/maven-basic-89
+sonar.host.url=http\://localhost\:8900
+sonar.login=admin
+sonar.password=aadmin
+localRepository=/Users/jting/.m2/repository
